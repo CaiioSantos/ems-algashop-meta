@@ -4,3 +4,6 @@
 [submodule "microservices/billing"]
 	path = microservices/billing
 	url = https://github.com/CaiioSantos/ems-algashop-billing.git
+[submodule "microservices/product-catalog"]
+	path = microservices/product-catalog
+	url = https://github.com/CaiioSantos/ems-algashop-product-catalog.git
