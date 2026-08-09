@@ -149,7 +149,7 @@
        limits:
          memory: 512M
    environment:
-     REDIS_PASSWORD: algashop
+     REDIS_PASSWORD: 'algashop'
  volumes:
   algashop-postgres:
   algashop-mongodb-1:
